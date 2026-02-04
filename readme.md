@@ -7,6 +7,9 @@ This repository contains the code and materials for the PRW3 - Full Stack Open c
 - `part{number}/`: Contains exercises and materials for Part {number} of the course.
   - `{excercise_name}/`: Contains specific exercises and suggested solutions for the exercise.
 
+## Links
+- [Full Stack Open Course](https://fullstackopen.com/en/#course-contents)
+
 ## Authors
 
 - Ethann Schneider
