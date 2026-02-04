@@ -1,0 +1,2 @@
+# PRW3 - Full Stack Open 
+This repository contains the code and materials for the PRW3 - Full Stack Open course. The course covers modern web development with JavaScript, React, Node.js, and other related technologies.
