@@ -1,9 +1,14 @@
-# Install
+# Prerequisites
+- Node.js (version 14 or higher)
+- npm (Node Package Manager)
+
+# Getting Started
+## Install
 ```bash
 npm install
 ```
 
-# Run
+## Run
 
 get your API key from https://openweathermap.org/ and set it as an environment variable before running the development server:
 
