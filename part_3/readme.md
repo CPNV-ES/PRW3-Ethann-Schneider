@@ -68,6 +68,8 @@ npm run dev
 
 ### On integration environment
 
+*Deployed on [`https://prw3-phonebook.ethann.ch/`](https://prw3-phonebook.ethann.ch/)*
+
 Build the docker image:
 ```bash
 docker build -t phonebook:latest .
